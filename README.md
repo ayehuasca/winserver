@@ -7,7 +7,7 @@
 Download file Installernya
 
 ```jsx
-wget https://raw.githubusercontent.com/ayehuasca/Custom-Windows-Server-Image/main/windows-server-autoinstaller.sh
+wget https://raw.githubusercontent.com/ayehuasca/winserver/main/windows-server-autoinstaller.sh
 ```
 
 Beri permission ke file tersebut
